@@ -15,8 +15,8 @@ mario_characters = {
     'Mega Man': {'power_level': 8, 'max_damage': 6},
     'Bowser Jr.': {'power_level': 4, 'max_damage': 3},  
     'Link': {'power_level': 7, 'max_damage': 8}, 
-    'Kirby': {'power_level': 12, 'max_damage': 3},
-}
+    'Kirby': {'power_level': 12, 'max_damage': 3},}
+
 
 your_power_level = 9
 your_max_damage = 7
